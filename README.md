@@ -4,15 +4,7 @@ This is a example for **VIPER** design pattern in Swift 4.
 
 ## VIPER 
 
-```mermaid
-graph LR
-A(View) -- Sends user actions--> B(Presenter)
-B -- Update UI --> A
-C(Router) -- Navigation between views --> B
-B -- User actions or data fetching actoins --> D(Interactor)
-D -- Output the data from business logic --> B
-D --> E(Entity)
-```
+![VIPER](https://i.postimg.cc/DyWHyRMx/viper.png)
 
 - V :  View
 	-  Send user actions to the presenter and then show whatever the presenter fetched.
