@@ -1,0 +1,100 @@
+{
+    "results":[
+     {
+       "name": "Yellow",
+       "hex": "#FFFF00",
+       "r": 255.0,
+       "g": 255.0,
+       "b": 0.0,
+       "desc": "This is Yellow color."
+     },
+     {
+       "name": "Orange",
+       "hex": "#FF7F00",
+       "r": 255.0,
+       "g": 127.0,
+       "b": 0.0,
+       "desc": "This is Orange color."
+     },
+     {
+       "name": "Red",
+       "hex": "#FF0000",
+       "r": 255.0,
+       "g": 0.0,
+       "b": 0.0,
+       "desc": "This is Red color."
+     },
+     {
+       "name": "Magenta",
+       "hex": "#FF00FF",
+       "r": 255.0,
+       "g": 0.0,
+       "b": 255.0,
+       "desc": "This is Magenta color."
+     },
+     {
+         "name": "Purple",
+         "hex": "#7F007F",
+         "r": 127.0,
+         "g": 0.0,
+         "b": 127.0,
+         "desc": "This is Purple color."
+     },
+     {
+       "name": "Indigo",
+       "hex": "#00007F",
+       "r": 0.0,
+       "g": 0.0,
+       "b": 127.0,
+       "desc": "This is Indigo color."
+     },
+     {
+       "name": "Blue",
+       "hex": "#0000FF",
+       "r": 0.0,
+       "g": 0.0,
+       "b": 255.0,
+       "desc": "This is Blue color."
+     },
+     {
+         "name": "Cyan",
+         "hex": "#00FFFF",
+         "r": 0.0,
+         "g": 255.0,
+         "b": 255.0,
+         "desc": "This is Cyan color."
+     },
+     {
+       "name": "Green",
+       "hex": "#00FF00",
+       "r": 0.0,
+       "g": 255.0,
+       "b": 0.0,
+       "desc": "This is Green color."
+     },
+     {
+       "name": "White",
+       "hex": "#FFFFFF",
+       "r": 255.0,
+       "g": 255.0,
+       "b": 255.0,
+       "desc": "This is White color."
+     },     
+     {
+       "name": "Gray",
+       "hex": "#7F7F7F",
+       "r": 127.0,
+       "g": 127.0,
+       "b": 127.0,
+       "desc": "This is Gray color."
+     },
+     {
+       "name": "Black",
+       "hex": "#000000",
+       "r": 0.0,
+       "g": 0.0,
+       "b": 0.0,
+       "desc": "This is Black color."
+     }
+  ]
+}    
